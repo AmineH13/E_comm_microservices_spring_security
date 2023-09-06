@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reservation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reservation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vol/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vol/src/main/resources" charset="UTF-8" />
   </component>

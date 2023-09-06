@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/vol/pom.xml" />
         <option value="$PROJECT_DIR$/reservation/pom.xml" />
         <option value="$PROJECT_DIR$/exception/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
       </list>
     </option>
   </component>
